@@ -10,7 +10,6 @@ include("Problems/ex4.jl")
 include("Problems/ex5.jl")
 include("Problems/ex6.jl")
 
-export JuMP
 export build_ex1, build_ex2, build_ex3, build_ex4, build_ex5, build_ex6, plot_ex6_pos, plot_ex6_vel, plot_ex6_ctrl
 
 end
